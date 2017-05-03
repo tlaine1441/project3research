@@ -1,19 +1,19 @@
 # Bio
-###Description: 
+### Description: 
 An anonymous, virtual “buddy” to help connect survivors with support resources via a conversation-like interface.
 
-###Why: 
+### Why: 
 Provide easy access to support resources, and to bridge the gap between people who need support with professionals who are qualified to help. 
 
-###Problem to solve: 
+### Problem to solve: 
 We’re not trying to solve the entire problem of sexual assault/trauma with our app - we can't - but we can try to inspire communication and survivor empowerment by bridging the gap between people who need help, and professionals who are qualified to do so. 
 
-###Design Principles: 
+### Design Principles: 
 Speed, accessibility, and user anonymity. 
 
 
 
-#Questions
+# Questions
 
 ## Personal
 1. What is important to you when discussing personal topics?
