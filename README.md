@@ -104,3 +104,16 @@ User 5.
 11)Maybe. Would probably call a professional first.
 12) Local information on how to contact a professional in the field of interest. Being that most of these professionals are doctors then I would also want information on what sorts of insurance they accept.
 
+User 6
+1. Being able to trust the person, thier willingness to listen
+2. Knowing they won't share that with others or be judgemental
+3. Workplace resource for counceling/mental health care
+4. Empathy, support
+5. Understanding, supportive, not judgemental, similar experiences
+6. Internet, insurance company
+7. Doctor/hospital, police, insurance co, internet
+8. Banking
+9. Security
+10. Having one place to go to get immdiate info/resources would be great
+11. Sure
+12. locations to receive help right away, leads to resources
