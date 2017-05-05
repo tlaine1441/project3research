@@ -117,3 +117,18 @@ User 6
 10. Having one place to go to get immdiate info/resources would be great
 11. Sure
 12. locations to receive help right away, leads to resources
+
+## Interview Conclusion
+After conducting these interviews ther are a couple key ideas to take away from this:
+
+1. Privacy is HUGE!
+2. Anonymity will also be vital to this project.
+3. Users want an escape route for the website to cover their tracks
+4. Users won't feel comfortable with this being a phone app, unless the app can be hidden or disguised well.
+5. Users do feel like there is a need for this website.
+6. The users I interviewed didn't know of any resources over physical and emotional abuse. The only answer they provided is "internet", which tells me there could be a real need for this.
+7. Found out users don't want to feel alone.
+
+
+All of these answers have shaped the way we view this project. We knew going into this that anonymity would be key, but now I see it will be vital to this project. I gained a real sense for how important this website can be for everyone.
+
